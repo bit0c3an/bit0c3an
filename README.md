@@ -51,15 +51,25 @@
 ---
 
 ## 📈 Learning Path
+
 [✅] eJPTv2 Certified
+
 [✅] Web Development Bootcamp
-[🔄] SOC Level 1 Path — Blue Team (TryHackMe)
+
+[🔄] SOC Level 1 Path — Blue Team .(TryHackMe)
+
 [🔄] Active Directory Attacks (TryHackMe)
+
 [🔄] Jr Penetration Tester Path (TryHackMe)
+
 [ ]  Burp Suite & Web Application Testing (PortSwigger)
+
 [ ]  PNPT Certification (TCM Security)
+
 [ ]  Bug Bounty Hunting (HackerOne / Bugcrowd)
+
 [ ]  OSCP (future goal)
+
 ---
 
 ## 📫 Contact
